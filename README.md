@@ -1,2 +1,6 @@
 # Test-Repo
-test repository for me to play around
+Test repository for me to play around with
+
+Eventually I'll maybe add mkdocs to this
+
+
